@@ -1,0 +1,2 @@
+Come back and refactor all of that logic into a service
+Find a cool design idea idk
